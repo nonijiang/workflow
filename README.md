@@ -20,7 +20,7 @@
 ### 1. 本地fork的代码库中新建需要做的功能分支如：
   git checkout -b hotfix/easy-bug
 ### 2. 修改完代码，add和commit后，将分支hotfix/easy-bug push到origin
-  git push origin hotfix/easy-bug
+  git push origin hotfix/easy-buggit
 ### 3. 在github网站使用PR
   new pull request -->在自己folk的那一栏选择branch hotfix/easy-bug。
   提交pull request
